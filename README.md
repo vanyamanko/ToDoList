@@ -29,11 +29,3 @@ The Todo List Application is a simple task management tool built with the Qt fra
 8. Use the filter buttons at the top to show all tasks, only completed tasks, or only active tasks.
 9. To save the tasks to a file, go to "File" > "Save".
 10. To load tasks from a file, go to "File" > "Open" and select the file.
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

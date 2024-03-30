@@ -27,5 +27,3 @@ The Todo List Application is a simple task management tool built with the Qt fra
 6. To edit a task, double-click on the task in the list and modify the details.
 7. To delete a task, right-click on it and select "Delete".
 8. Use the filter buttons at the top to show all tasks, only completed tasks, or only active tasks.
-9. To save the tasks to a file, go to "File" > "Save".
-10. To load tasks from a file, go to "File" > "Open" and select the file.
